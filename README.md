@@ -10,6 +10,6 @@ playing Badminton
 on front end frameworks. I worked on Aura components extensively and now I 
 want to learn more about Lightning Web components.
 
- ![My Favorite 
+[My Favorite 
 Meme](https://i.pinimg.com/736x/4a/17/de/4a17de2149fefbb2146110c3d3a41db0.jpg)
 
