@@ -1,6 +1,7 @@
 # Sai Satyanarayana Tammineedi
 
-  - My Personal Interests are Music, books and playing Badminton
+  - My Personal Interests are listening to music, reading  books and 
+playing Badminton
   - Techincal Interests are Web Development
   - Machine Learning
 ## Technical Background
