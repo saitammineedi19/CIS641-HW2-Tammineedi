@@ -10,5 +10,5 @@ on front end frameworks. I worked on Aura components extensively and now I
 want to learn more about Lightning Web components.
 
  ![My Favorite 
-Meme](https://images.app.goo.gl/vJEqXLhWFjqxD5YK6)
+Meme](https://media.makeameme.org/created/2020-showing-2021.jpg)
 
