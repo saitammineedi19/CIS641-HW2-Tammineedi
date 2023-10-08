@@ -15,7 +15,7 @@ Meme](https://i.pinimg.com/736x/4a/17/de/4a17de2149fefbb2146110c3d3a41db0.jpg)
 
 ## Term Project
 The term project refers to an Inventory Management System (IMS) developed to help firms manage and control their inventory more efficiently. The IMS is a digital solution for recording and storing product information, processing orders, and managing suppliers. It includes various major features and functionalities, such as:
--Product Management
--Data Storage
--Order Management
--Inventory Control
+- Product Management
+- Data Storage
+- Order Management
+- Inventory Control
