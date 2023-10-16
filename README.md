@@ -13,6 +13,10 @@ want to learn more about Lightning Web components.
 [My Favorite 
 Meme](https://i.pinimg.com/736x/4a/17/de/4a17de2149fefbb2146110c3d3a41db0.jpg)
 
+## TEAM PAGE
+
+[Team github page](https://saitammineedi19.github.io/GVSU-CIS641-TEAM-GDMS/)
+
 ## Term Project
 The term project for the course System Analysis and Design that I'm doing along with my team developed a software system for Inventory Management System (IMS) that helps firms manage and control their inventory more efficiently. The IMS is a digital solution for recording and storing product information, processing orders, and managing suppliers. It includes various major features and functionalities, such as:
 - Product Management(Adding items to the inventory, updating the inventory)
