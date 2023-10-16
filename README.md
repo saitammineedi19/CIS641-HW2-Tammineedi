@@ -14,8 +14,8 @@ want to learn more about Lightning Web components.
 Meme](https://i.pinimg.com/736x/4a/17/de/4a17de2149fefbb2146110c3d3a41db0.jpg)
 
 ## Term Project
-The term project refers to an Inventory Management System (IMS) developed to help firms manage and control their inventory more efficiently. The IMS is a digital solution for recording and storing product information, processing orders, and managing suppliers. It includes various major features and functionalities, such as:
-- Product Management
-- Data Storage
-- Order Management
-- Inventory Control
+The term project for the course System Analysis and Design, I along with my team developed a software system for Inventory Management System (IMS) that helps firms manage and control their inventory more efficiently. The IMS is a digital solution for recording and storing product information, processing orders, and managing suppliers. It includes various major features and functionalities, such as:
+- Product Management(Adding items to the inventory, updating the inventory)
+- Data Storage(storing items to the inventory)
+- Inventory Transfer(Transferring items from one location to other location)
+We used Python programming to develop the system.
