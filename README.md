@@ -13,7 +13,7 @@ want to learn more about Lightning Web components.
 [My Favorite 
 Meme](https://i.pinimg.com/736x/4a/17/de/4a17de2149fefbb2146110c3d3a41db0.jpg)
 
-## Team page
+## Github Team page
 
 [Team github page](https://saitammineedi19.github.io/GVSU-CIS641-TEAM-GDMS/)
 
